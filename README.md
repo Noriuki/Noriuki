@@ -1,3 +1,3 @@
-### Hi there 👋
-
-<img src="cat.gif">
+<div>
+<img src="cat.gif" height="300">  
+</div>
