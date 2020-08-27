@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img href="cat.gif">
+<img src="cat.gif">
