@@ -1,4 +1,4 @@
-<div style="background-color: blue;">
-  <h1>Hello There</h1>
+<div>
+  Hello There!
   <img src="https://media.giphy.com/media/w3J7mstYCISqs/giphy.gif" height="150" />
 </div>
