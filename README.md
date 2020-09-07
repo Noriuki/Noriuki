@@ -1,5 +1,3 @@
-
-<h1 align="center">Hello There!</h1>
 <p align="center">
-  <img src="https://thumbs.gfycat.com/FlusteredSourAnhinga.webp" alt="nyan cat" title="gfycat.com/@streamlabs-upload" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif" alt="loading gif" />
 </p>
