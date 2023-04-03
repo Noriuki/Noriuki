@@ -3,21 +3,6 @@
  <h3>Full Stack web developer</h3>
 </div>
 
-<div style="display: inline_block" align="center">
- <a href="https://www.linkedin.com/in/noriuki" target="__blank">
-  <img align="center" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
- <a href="https://www.youtube.com/@noriuki" target="__blank">
-  <img align="center" height="25" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
- </a>
- <a href="https://www.lanezupiroli.com.br" target="__blank">
-  <img align="center" height="25" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
- </a>
- <a href="https://dev.to/noriuki" target="__blank">
-  <img align="center" height="25" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
- </a>
-</div>
-
 </br>
 </br>
 
