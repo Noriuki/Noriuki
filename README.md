@@ -1,6 +1,6 @@
 <img height="180px" width="100%" src="https://github.com/Noriuki/Noriuki/blob/master/assets/banner.gif">
 
-<h1 align="center">Lane Zupiroli <del>(Noriuki)</del></h1>
+<h1 align="center">Lane Zupiroli</h1>
 <div align="center" class="mb2">
   <a href="https://www.lanezupiroli.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/website-581C87?style=for-the-badge&logo=About.me&logoColor=white"/>
